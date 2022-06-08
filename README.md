@@ -2,4 +2,5 @@
 Speedrunning tools
 
 ## Current Features:
-1. Speedrun timer for Google Chrome
+### Speedrun timer for Google Chrome
+Copy `bookmark.js` file into a new bookmark and click it to start the timer on the current website.
